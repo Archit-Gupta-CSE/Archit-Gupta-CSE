@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Archit-Gupta-CSE
 - 👀 I’m interested in ...competative codings , hackathons , open source coding , learning new things ,etc.
-- 🌱 I’m currently learning ...C porgramming and java 
+- 🌱 I’m currently learning ...C programming and java 
 - 💞️ I’m looking to collaborate on ...not now!! (will update it soon)
 - 📫 How to reach me ...through my mail architgupta5005@gmail.com
 
