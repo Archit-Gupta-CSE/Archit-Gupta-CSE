@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Archit-Gupta-CSE
+- 👋 Hi, I’m @Archit_Gupta
 - 👀 I’m interested in ...competative codings , hackathons , open source coding , learning new things ,etc.
 - 🌱 I’m currently learning ...C programming and java 
 - 💞️ I’m looking to collaborate on ...not now!! (will update it soon)
